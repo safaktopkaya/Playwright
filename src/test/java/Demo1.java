@@ -8,5 +8,6 @@ public class Demo1 {
         Page page  = browser.newPage();
         page.navigate("https://www.google.com/");
         System.out.println("Hello playwright");
+        //
     }
 }
